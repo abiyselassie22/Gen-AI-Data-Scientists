@@ -42,4 +42,7 @@ Generative AI: Introduction & Applications [Click for verification](https://cour
 
 Generative AI Essentials Badge [Click for verification](https://www.credly.com/badges/93f44483-8f14-44ca-a848-ff0ed2003d16/public_url)<br>
 
-![image](https://github.com/user-attachments/assets/ad28aa7b-6cbd-4e21-82b0-33c7bd3c40e7)
+![image](https://github.com/user-attachments/assets/5a8a564b-cec8-48a3-9808-378bfa9a3e75)
+
+![image](https://github.com/user-attachments/assets/bccae55a-2546-42ee-a3f7-0314ba82f5af)
+
