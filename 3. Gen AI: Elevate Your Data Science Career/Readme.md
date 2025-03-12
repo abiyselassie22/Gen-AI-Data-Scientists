@@ -1,1 +1,4 @@
+# Generative AI: Elevate Your Data Science Career
 
+## Summary
+This course addresses real-world Data science problems across multiple industries with data generation, data augmentation, and feature engineering. explains the concept and relevance of prompt engineering in Generative AI. It teaches how to use Generative AI to speed up data visualizations, build models and to produce insights. It also discusses key ethics considerations around Generative AI & data, key concerns for executives across industries. It demonstrates one's new Generative AI skills in a hands-on data augmentation & feature engineering project that can be apllied in real-life profession. It provides several hands-on labs & a Final Project that offer an opportunity to optimize results by creating effective prompts in the IBM Generative AI Classroom.
