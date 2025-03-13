@@ -22,8 +22,8 @@ This course addresses real-world Data science problems Data Scientists face acro
  
 * **Final Project & Exam**
   * In this project, prompts were used to generate the Python codes for performing specific tasks. A JupyterLite-based testing environment was accessed to test the generated codes using the Generative AI classroom prompts.
-  * **Final Project** [Click here for Plotly](https://github.com/abiyselassie22/Gen-AI-Data-Scientists/blob/master/3.%20Gen%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/3.%20Final%20Project%20%26%20Exam/1.%20Final_Project_Generative%20AI_DataScience.pdf)<br>
-  * **Test Environment for Gen AI Guided Project lab** [Click here for Plotly](https://github.com/abiyselassie22/Gen-AI-Data-Scientists/blob/master/3.%20Gen%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/3.%20Final%20Project%20%26%20Exam/2.%20jupyter_lite_for_test.Final_Project.ipynb)<br>
+  * **Final Project** [Click here](https://github.com/abiyselassie22/Gen-AI-Data-Scientists/blob/master/3.%20Gen%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/3.%20Final%20Project%20%26%20Exam/1.%20Final_Project_Generative%20AI_DataScience.pdf)<br>
+  * **Test Environment for Gen AI Guided Project lab** [Click here](https://github.com/abiyselassie22/Gen-AI-Data-Scientists/blob/master/3.%20Gen%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/3.%20Final%20Project%20%26%20Exam/2.%20jupyter_lite_for_test.Final_Project.ipynb)<br>
 
 ## Skills
 
