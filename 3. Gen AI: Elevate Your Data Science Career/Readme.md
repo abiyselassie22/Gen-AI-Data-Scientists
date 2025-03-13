@@ -38,7 +38,7 @@ This course addresses real-world Data science problems Data Scientists face acro
 
 Generative AI: Elevate Your Data Science Career [Click for verification](https://coursera.org/verify/9J0NIFFX9CJX)<br>
 
-Generative AI: Essentials for Data Science [Click for verification](https://www.credly.com/badges/e7fb3fbc-fd2a-4479-9f93-77de68d9eeb6/public_url)<br>
+Generative AI: Essentials for Data Science Badge [Click for verification](https://www.credly.com/badges/e7fb3fbc-fd2a-4479-9f93-77de68d9eeb6/public_url)<br>
 
 ![image](https://github.com/user-attachments/assets/246ed82b-81fe-4df0-b633-db1b5107275d)
 
